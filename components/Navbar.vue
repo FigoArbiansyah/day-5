@@ -9,28 +9,28 @@
       <div class="flex gap-x-7 items-center nav-items max-md:hidden">
         <span>
           <a
-            href="!#"
+            href="#"
             class="text-slate-600 hover:font-semibold transition-all ease"
             >Home</a
           >
         </span>
         <span>
           <a
-            href="!#"
+            href="#"
             class="text-slate-600 hover:font-semibold transition-all ease"
             >Discover</a
           >
         </span>
         <span>
           <a
-            href="!#"
+            href="#"
             class="text-slate-600 hover:font-semibold transition-all ease"
             >Post a Job</a
           ></span
         >
         <span
           ><a
-            href="!#"
+            href="#"
             class="text-slate-600 hover:font-semibold transition-all ease"
             >Contact Us</a
           ></span
@@ -39,7 +39,7 @@
       <div class="flex gap-3 items-center">
         <div>
           <a
-            href="!#"
+            href="#"
             class="px-3 py-2 border border-slate-300 rounded font-semibold hover:bg-blue-700 hover:text-white transition-all ease duration-300"
             >Sign Up</a
           >
